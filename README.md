@@ -1,1 +1,3 @@
-# Hotstar-Clone
+# DevSecOps With Docker Scout Hotstar Clone
+
+
